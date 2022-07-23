@@ -3,9 +3,6 @@
 
 echo "<h1> Hola Mundo</h1>";
 
-// print "Hola Mundo";
-
-
 var_dump("20");
 
 
